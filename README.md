@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Most of my projects use HTML, CSS, JavaScript, and React, but my current learning goals are to get comfortable with TypeScript and React Native, and grow a deeper understanding of accessible and responsive design. 
 
-👀 My passion for frontend design and intuitive user experiences developed because I worked with a lot of users who had trouble navigating applications.
+👀 My passion for frontend design and intuitive user experiences developed because I worked with a lot of users who had trouble navigating applications, which made me curious as to how applications were made.
 
 🎾 🥐 When not programming, you'll find me baking or at the pickleball/tennis court!
 
